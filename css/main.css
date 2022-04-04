@@ -1,0 +1,46 @@
+
+.icon_size{
+    width: 15px;
+    height: 15px;
+}
+
+.fs-6{
+    font-size: small !important;
+}
+
+.bg-black{
+    background-color: rgb(26, 29, 32) ;
+}
+
+.bg-bldark{
+    background-color: rgb(30, 34, 37);
+}
+
+.bg-bldark{
+    background-color: rgb(30, 34, 37);
+}
+
+.flex-1{
+    flex: 1 !important;
+}
+
+.h-100-w{
+    height: 100%;
+}
+
+.hover-pointer{
+    cursor: pointer !important;
+}
+/* boostrap breakpoint */
+/* $grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+); */
+
+@media (min-height:576px) {
+
+}
