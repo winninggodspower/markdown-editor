@@ -26,4 +26,4 @@ ___
 6. FileSaver.js
 7. Showdown.js
 
-> __you can visit this site at _[https://markdown-editor.tk/.tk](http://winningmarkdown.tk)___
+> __you can visit this site at _[https://markdown-editor.tk](https://markdown-editor.tk)___
