@@ -6,13 +6,13 @@ it gives you a platform to write markdown text and convert it into html code in 
 ___
 
 #### Features 
-- it takesyour markdown text and convert it into 👩‍💻html code
+- it takes your markdown text and convert it into 👩‍💻html code
 
 - it stores your markdown file right from your browser💻 .
 
-- it  allows you to rename your file into a suitable👌 name before download❗
+- it allows you to rename your file into a suitable👌 name before download❗
 
-- download your markdown file in our local computer🖥 
+- download your markdown file into your local computer🖥 
 
 - can also download the 💾html file along side!❗  
 ___
@@ -26,4 +26,4 @@ ___
 6. FileSaver.js
 7. Showdown.js
 
-> __you can visit this site at _[http://winningmarkdown.tk](http://winningmarkdown.tk)___
+> __you can visit this site at _[https://markdown-editor.tk/.tk](http://winningmarkdown.tk)___

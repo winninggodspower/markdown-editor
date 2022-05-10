@@ -168,4 +168,17 @@ function newFile(params) {
     document.location.reload()
 }
 
+const BodyHeight = $('body').outerHeight()
+const NavbarHeight = $('nav').outerHeight()
+console.log(enquire);
+
+enquire.register("screen and (max-width: 576px)", {
+    match : function() {
+        $('#markdownSection').outerHeight((BodyHeight - NavbarHeight)/2)
+    },
+    unmatch : function() {
+        $('#markdownSection').css('height','auto')
+    }
+});
+
 })
